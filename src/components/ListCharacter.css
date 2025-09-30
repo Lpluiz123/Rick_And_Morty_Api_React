@@ -1,0 +1,46 @@
+ul {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  gap: 150px 220px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+li {
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF;
+  color: black;
+  border-radius: 8px;
+  list-style: none;
+}
+
+li img {
+  border-radius: 8px 8px 0 0;
+  width: 100%;
+}
+
+li p {
+  color: #000;
+  font-weight: bold;
+  font-size: 15px;
+
+}
+
+span {
+    color: #8617a2;
+    font-size: 18px;
+}
+
+@media (max-width: 1200px) {
+
+
+ul {
+  grid-template-columns: 300px;
+  gap: 150px 220px;
+  justify-content: center;
+}
+
+}

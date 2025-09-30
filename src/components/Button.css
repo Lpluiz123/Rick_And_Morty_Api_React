@@ -1,0 +1,16 @@
+button {
+    width: 150px;
+    outline: none;
+    background-color: rgb(89, 89, 89);
+    color: #FFF;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: #8617a2;
+    color: #000;
+    border: none;
+}
+
+
