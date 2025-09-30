@@ -1,6 +1,5 @@
 # Galeria de Personagens Rick and Morty
 
-![Capa do Projeto](https://i.imgur.com/kYqV8aT.png)
 <p align="center">
   <img src="https://img.shields.io/github/license/[SEU-USUARIO-GITHUB]/[NOME-DO-REPOSITORIO]" alt="Licença">
   <img src="https://img.shields.io/github/languages/top/[SEU-USUARIO-GITHUB]/[NOME-DO-REPOSITORIO]" alt="Linguagem Principal">
